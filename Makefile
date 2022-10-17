@@ -1,2 +1,4 @@
-init:
-  git config core.hooksPath .githooks
+hello: 
+	echo 'hello'
+init: 
+	git config core.hooksPath .githooks
